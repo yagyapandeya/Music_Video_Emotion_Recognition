@@ -1,0 +1,12 @@
+Test loss: 0.18966656519193856
+Test accuracy: 0.9461358313817331
+[[66  1  1  0  1  1]
+ [ 0 79  0  0  0  0]
+ [ 1  0 57  1  2  1]
+ [ 0  0  2 69  2  0]
+ [ 0  0  1  1 66  0]
+ [ 0  4  3  0  1 67]]
+Classifier result save in disk 
+Ploted ROC for multi-class
+Softmax Classifier ROC AUC score= 0.998
+Softmax Classifier Test Set F1-score =  0.94
