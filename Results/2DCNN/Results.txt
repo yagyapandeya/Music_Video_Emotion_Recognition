@@ -1,0 +1,15 @@
+Results using last MP GAP Features
+
+
+Test loss: 0.2749023374510314
+Test accuracy: 0.9180327868852459
+[[62  1  0  1  4  2]
+ [ 0 77  0  0  0  2]
+ [ 2  0 57  0  2  1]
+ [ 0  0  1 70  2  0]
+ [ 0  1  2  2 63  0]
+ [ 5  5  1  0  1 63]]
+Classifier result save in disk 
+Ploted ROC for multi-class
+Softmax Classifier ROC AUC score= 0.991
+Softmax Classifier Test Set F1-score =  0.92
