@@ -1,0 +1,1 @@
+SGD(lr=0.00001, momentum=0.0)
